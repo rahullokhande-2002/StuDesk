@@ -1,0 +1,2 @@
+# StuDesk
+Student Management System
